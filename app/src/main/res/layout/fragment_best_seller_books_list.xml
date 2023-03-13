@@ -24,4 +24,6 @@
         android:layout_gravity="center"
         android:indeterminate="true"
         android:theme="@style/Widget.AppCompat.ProgressBar" />
+
+
 </FrameLayout>
